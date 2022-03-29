@@ -1,6 +1,9 @@
 # Eye Exercise
 The Eye Exercise challenged us to build a set of eyes in the middle of the page that would then mimic the movements of the cursor as it went in different directions on the screen. My next steps will be to utilize further sets up of in different locations on the screen. I would also like to work on creating different colors of the images as they complete a certain number of eye revolutions.
 
+## How To Use:
+Once the screen loads you will notice a pair of eyes located in the center of the screen. As you begin to move your cursor the eyes will follow it wherever it moves on the page.
+
 # Licensing Information
 
 MIT License
